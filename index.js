@@ -1,5 +1,5 @@
 var counter = 100;
 
  var counter = 0;
-postfixIncrement = 
+var postfixIncrement = counter;
 let prefixIncrement = document.getElementById("prefix Increment").innerHTML;
