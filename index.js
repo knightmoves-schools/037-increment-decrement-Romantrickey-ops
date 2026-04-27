@@ -1,4 +1,4 @@
 var counter = 100;
 
- prefixIncrement = 0;
-post
+ prefixIncrement = counter+;
+postfixIncrement = 
